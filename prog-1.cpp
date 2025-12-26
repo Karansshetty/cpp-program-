@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-// your code goes here
+
 int times,x,y,ans;
 cout<<"ENTER NUMBER OF TEST CASES: "<<endl;
 cin>>times;
