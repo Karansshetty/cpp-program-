@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-// your code goes here
+
 int times,N,M,K,c;
 cout<<"ENTER NUMBER OF TEST CASES: "<<endl;
 cin>>times;
